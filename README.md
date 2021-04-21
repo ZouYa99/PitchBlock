@@ -1,6 +1,6 @@
 # PitchBlock
 
-![icon](/Users/mac/Desktop/WWDC 2021/PitchBlock/PitchBlock/img/icon.png)
+![icon](img/icon.png)
 
 ## Introduction
 
